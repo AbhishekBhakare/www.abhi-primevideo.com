@@ -91,3 +91,52 @@ color: white;
     background-image: url(images/1bg.jpg);
     height: 80vh;
 }
+.main-content1 h1{
+    position: absolute;
+    color: white;
+    left: 80wh;
+    font-weight: 100;
+    font-size: 40px;
+    top: 110vh;
+}
+.one1{
+    position: relative;
+    color: white;
+font-size: 20px;
+top: 190px;
+}
+.two1{
+    position: absolute;
+    color: white;
+    left: 800px;
+font-size: 20px;
+}
+
+.two2 p button{
+    position: absolute;
+    top: 30px;
+    color: white;
+    background-color:rgb(23, 167, 180);
+    border: transparent;
+    padding: 10px;
+    border-radius: 2px;
+    
+}
+.main-content2{
+    background-color: white;
+    height: 70vh;
+}
+.main-content3{
+    background-image: url(images/bg\ 3.jpg);
+    height: 90vh;
+    background-size: cover;
+}
+.main-content4{
+    background-image: url(images/bg4.jpg);
+    height: 90vh;
+    background-size: cover;
+}
+footer{
+    height: 30vh;
+    background-color: rgb(49, 39, 39);
+}
